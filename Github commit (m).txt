@@ -1,0 +1,2 @@
+for push on June2 === "Fixed the container issue in the cards section, added the 3rd card, 
+added padding of 5rem to the cards section-content, ADDED the about section and its css"
